@@ -22,7 +22,7 @@ a {
 }
 
 .clock::before {
-    content: url(/images/icon-clock.svg);
+    content: url(images/icon-clock.svg);
     position: absolute;
     left: -1.2rem;
     top: .1rem;
@@ -35,7 +35,7 @@ a {
 }
   
 .price::before {
-    content: url(/images/icon-ethereum.svg);
+    content: url(images/icon-ethereum.svg);
     position: absolute;
     left: -1.2rem;
     top: 0.05rem;
